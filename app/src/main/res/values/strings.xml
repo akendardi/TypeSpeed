@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TypeSpeed</string>
+    <string name="test_text">Тест на скорость печати</string>
+    <string name="start">Начать</string>
+    <string name="hint">Как только вы начнете \n вводить текст, таймер запустится</string>
+    <string name="end_speed">Скорость ввода (симв/мин)</string>
+    <string name="end_time">Затраченное время</string>
+    <string name="return_on_main">На главную</string>
+    <string name="speed">Скорость печати (симв/мин)</string>
+    <string name="zero">0</string>
+    <string name="timer">Таймер</string>
+</resources>
