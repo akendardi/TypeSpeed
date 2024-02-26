@@ -32,6 +32,7 @@ public class EndActivity extends AppCompatActivity {
             }
         });
     }
+
     private void initViews(){
         timePerson = findViewById(R.id.timePerson);
         textViewSpeedEnd = findViewById(R.id.textViewSpeedEnd);
